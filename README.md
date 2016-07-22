@@ -6,10 +6,10 @@ Random tiny scripts that I wrote. MIT Licence.
 
 Output your favourite Unicode emoticons to a channel. Commands:
 
- - /SHRUG: ¯\_(ツ)_/¯
+ - /SHRUG: ¯\\_(ツ)_/¯
  - /FLIP: (╯°□°）╯︵ ┻━┻
  - /UNFLIP: ┬──┬ ノ( ゜-゜ノ)
- - /CSI: •_•)
+ - /CSI: ```•_•)
    ( •_•)>⌐■-■
-   (⌐■_■)
+   (⌐■_■)```
  - /DISAPPROVE: ಠ_ಠ
