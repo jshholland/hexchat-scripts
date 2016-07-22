@@ -18,6 +18,7 @@ EMOTES = {
 
 def emote_cb(word, word_eol, emote):
     hexchat.command(u'SAY {}'.format(emote))
+    return hexchat.EAT_ALL
 
 for name, emote in EMOTES.items():
     hexchat.hook_command(name, emote_cb, emote)
