@@ -13,3 +13,4 @@ Output your favourite Unicode emoticons to a channel. Commands:
    ( •_•)>⌐■-■
    (⌐■_■)```
  - /DISAPPROVE: ಠ_ಠ
+ - /FULLWIDTH <text>: convert text to fullwidth characters
